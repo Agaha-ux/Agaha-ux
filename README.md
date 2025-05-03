@@ -9,7 +9,8 @@
 
 [![PinkHelloKitty](https://cdn3.emoji.gg/emojis/31613-pinkhellokitty.png)](https://emoji.gg/emoji/31613-pinkhellokitty)
 [![PepeHappy](https://cdn3.emoji.gg/emojis/1095_PepeHappy.png)](https://emoji.gg/emoji/1095_PepeHappy)
-[![JairBolsonaro](https://cdn3.emoji.gg/emojis/4832_JairBolsonaro.png)](https://emoji.gg/emoji/4832_JairBolsonaro)
+
+
 
 ### Faço do meu dia o mais legal possível :)
 
